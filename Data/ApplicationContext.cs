@@ -13,4 +13,6 @@ using LuuThiPhuong345.Models;
         }
 
         public DbSet<LuuThiPhuong345.Models.PersonLTP345> PersonLTP345 { get; set; }
+
+        public DbSet<LuuThiPhuong345.Models.LTP0345> LTP0345 { get; set; }
     }

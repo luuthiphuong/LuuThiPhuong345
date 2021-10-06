@@ -170,3 +170,8 @@ D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\PersonLTP345s\Delete.cshtml.g.cs
 D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\PersonLTP345s\Details.cshtml.g.cs
 D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\PersonLTP345s\Edit.cshtml.g.cs
 D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\PersonLTP345s\Index.cshtml.g.cs
+D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\LTP0P345s\Create.cshtml.g.cs
+D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\LTP0P345s\Delete.cshtml.g.cs
+D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\LTP0P345s\Details.cshtml.g.cs
+D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\LTP0P345s\Edit.cshtml.g.cs
+D:\LuuThiPhuong345\obj\Debug\net5.0\Razor\Views\LTP0P345s\Index.cshtml.g.cs
